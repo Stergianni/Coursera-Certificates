@@ -8,6 +8,7 @@ This repository contains projects and certificates from various Coursera profess
 - [IBM Back-End Developer](IBM-Back-End-Developer/) [Coming Soon!]  
 
 Each folder contains:
+
 ✅ Completed projects  
 ✅ Key learnings  
 ✅ Official certificates  
@@ -17,4 +18,4 @@ Each folder contains:
 ## 🔗 Connect with Me  
 GitHub: [Stergianni](https://github.com/Stergianni)  
 Portfolio: [Coming Soon!]  
-LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/stergianni-orfanidis/)
+LinkedIn: [[Stergianni-Orfanidis]](https://www.linkedin.com/in/stergianni-orfanidis/)
