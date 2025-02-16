@@ -82,6 +82,7 @@ For Phase 1, you are expected to:
 ### Application Development Lifecycle
 
 Ensure to follow the standard **Application Development Lifecycle** throughout the project. This includes thoroughly analyzing the requirements before beginning the design and development phases.
+![image](https://github.com/user-attachments/assets/74afb894-fb27-4339-9e07-5eeb98cda6b5)
 
 > **Note**: As the development progresses, you are encouraged to enhance the user interface for different web pages and components as needed.
 
